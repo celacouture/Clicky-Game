@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+
+.header {
+  width:100%;
+  background:#4F5153;
+  border-bottom: 2px solid white;
+}
+.header h3{
+  width: 100%;
+  text-align: center;
+  font-size: 60pt;
+  text-shadow: .5px 1px #fff;
+  color: #2A77AE;
+  margin-bottom: 10px;
+  margin-top: 5px;
+  font-family: 'Great Vibes', cursive;
+
+}
+#topScore{
+  text-align: right;
+  font-size: 16pt;
+  color: #fff;
+}
+
+#currentScore{
+  text-align: left;
+  font-size: 16pt;
+  color: #fff;
+}
